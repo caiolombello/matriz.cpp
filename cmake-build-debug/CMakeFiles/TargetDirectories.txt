@@ -1,0 +1,3 @@
+/home/caiobarbieri/Documents/Programação/C++/ExMatriz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/caiobarbieri/Documents/Programação/C++/ExMatriz/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/caiobarbieri/Documents/Programação/C++/ExMatriz/cmake-build-debug/CMakeFiles/ExMatriz.dir
